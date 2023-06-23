@@ -2,16 +2,20 @@
 
 This repository contains a Java code implementation of a Material Time Picker preference. The preference allows users to select a time using a Material Design styled time picker.
 
+## Demo
+![Demo](demo.gif)
+
 ## Installation
 
 To use this Material Time Picker preference in your Android project, follow these steps:
 
 1. Download the `MaterialTimePickerPreference.java` file from this repository.
-2. Copy the downloaded file into your project's source code directory.
+2. Follow the instructions and copy the codes into your project's source code directory.
 3. Add the following dependency to your project's `build.gradle` file:
 
 ```groovy
-   implementation 'com.google.android.material:material:<version>'
+implementation 'com.google.android.material:material:<version>'
+implementation 'androidx.preference:preference:<version>'   
    
 ```
 ## Usage
