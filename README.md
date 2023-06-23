@@ -177,5 +177,9 @@ Replace com.your_package_name.example with the your package name of your project
 
 5. Build and run your Android app. When the Material Time Picker preference is tapped, the Material Time Picker dialog will be displayed, allowing the user to select a time.
 
+# Contributing
+Contributions to this repository are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
 ## License
-This code is licensed under the MIT License.            
+This code is licensed under the [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+            
